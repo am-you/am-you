@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**am-you/am-you** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a React/Node/MongoDb project 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning: Rust/Webassembly/AWS/GraphQl
+
+- 👯 I’m looking to collaborate on: Front-End Projects
+
+- 🤔 I’m looking for help with: Rust
+
+- 💬 Ask me about: Anything
+
+- 📫 How to reach me: amine.youssfi10@gmail.com
+
+- ⚡ Fun fact: Just recently discovered Google's "I'm feeling curious"
+
+
+
+
+-more details about me at https://www.amyou.dev/
