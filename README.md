@@ -18,4 +18,4 @@
 
 
 
--more details about me at https://www.amyou.dev/
+- more details about me at https://www.amyou.dev/
