@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a React/Node/MongoDb project 
 
-- 🌱 I’m currently learning: Rust/Webassembly/AWS/GraphQl
+- 🌱 I’m currently learning: Rust/Webassembly/AWS
 
 - 👯 I’m looking to collaborate on: Front-End Projects
 
