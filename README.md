@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a React/Node/MongoDb project 
+- 🔭 I’m currently working on a Node project 
 
-- 🌱 I’m currently learning: Rust/Webassembly/AWS
+- 🌱 I’m currently learning: AWS
 
 - 👯 I’m looking to collaborate on: Front-End Projects
 
-- 🤔 I’m looking for help with: Rust
+- 🤔 I’m looking for help with: C
 
 - 💬 Ask me about: Anything
 
